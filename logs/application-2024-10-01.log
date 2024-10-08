@@ -1,0 +1,7 @@
+{"level":"info","message":"Telegram bot initialized with long polling","service":"neurolov-backend","timestamp":"2024-10-01T11:37:12.586Z"}
+{"level":"info","message":"Server running on port 3000","service":"neurolov-backend","timestamp":"2024-10-01T11:37:12.596Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"neurolov-backend","timestamp":"2024-10-01T11:37:13.059Z"}
+{"level":"info","message":"Received authentication request","service":"neurolov-backend","timestamp":"2024-10-01T11:39:17.362Z"}
+{"level":"info","message":"User authenticated successfully: 433026815","service":"neurolov-backend","timestamp":"2024-10-01T11:39:17.464Z"}
+{"body":"\r\n","expose":true,"level":"error","message":"ERROR 💥 Unexpected end of JSON input","service":"neurolov-backend","status":400,"statusCode":400,"timestamp":"2024-10-01T11:39:31.743Z","type":"entity.parse.failed"}
+{"body":"\r\n","expose":true,"level":"error","message":"ERROR 💥 Unexpected end of JSON input","service":"neurolov-backend","status":400,"statusCode":400,"timestamp":"2024-10-01T11:43:19.039Z","type":"entity.parse.failed"}

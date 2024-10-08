@@ -1,0 +1,8 @@
+{"level":"info","message":"Telegram bot initialized with long polling","service":"neurolov-backend","timestamp":"2024-10-04T04:05:47.642Z"}
+{"level":"info","message":"Server running on port 3000","service":"neurolov-backend","timestamp":"2024-10-04T04:05:47.651Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"neurolov-backend","timestamp":"2024-10-04T04:05:48.665Z"}
+{"level":"info","message":"Received authentication request","service":"neurolov-backend","timestamp":"2024-10-04T04:06:28.830Z"}
+{"level":"info","message":"User authenticated successfully: 433026815","service":"neurolov-backend","timestamp":"2024-10-04T04:06:28.919Z"}
+{"level":"info","message":"Telegram bot initialized with long polling","service":"neurolov-backend","timestamp":"2024-10-04T04:28:04.657Z"}
+{"level":"info","message":"Server running on port 3000","service":"neurolov-backend","timestamp":"2024-10-04T04:28:04.668Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"neurolov-backend","timestamp":"2024-10-04T04:28:05.763Z"}
